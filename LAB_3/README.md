@@ -1,6 +1,2 @@
 # AI_LAB3
-MORSY BIADSY ID:318241221
-EMAIL: morsyb.6c@gmail.com
-
-SAMER NAJJAR ID:207477522
-EMAIL: samer.evil@gmail.com
+In this project we have implemented multiple algorithms to solve the Capacitated Vehicle Routing Problem (CVRP). We used Tabu Search, Discrete Ant Colony Optimization (ACO), Simulated annealing and also we have used the Genetic algorithm to solve this problem with different algorithms.

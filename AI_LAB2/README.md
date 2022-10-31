@@ -1,6 +1,1 @@
 # AI_LAB
-MORSY BIADSY ID:318241221
-EMAIL: morsyb.6c@gmail.com
-
-SAMER NAJJAR ID:207477522
-EMAIL: samer.evil@gmail.com

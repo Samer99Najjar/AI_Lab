@@ -8,5 +8,4 @@ Also, we have implemented the Particle Swarm Optimization algorithm (PSO) to rea
 We have also generalized the Genetic Algorithm so that it would work and solve the N-Queens and binpacking problems using the same methods stated above.
 
 The last algorithm is Minimal Conflicts, which was used to solve the N-Queens problem.
-##
-A thorough report was conducted and can be found in the 'documents' folder.
+
